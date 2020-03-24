@@ -49,5 +49,11 @@ public class Application {
 //		}
 //		System.out.println("MAX = " + max);
 //		System.out.println("MIN = " + min);
+		
+		int catNumber;
+		int zero;
+		catNumber = 1; // у мен€ один кот
+		zero = 0; // ноль, он и в јфрике ноль
+		int result = catNumber / zero;
 	}
 }
